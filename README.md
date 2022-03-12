@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Leslie Vado from Nicaragua living in Atlanta, Georgia. 
+- 👋 Hi, I’m Leslie Vado from Nicaragua living in Kennesaw, Georgia. 
 - 👀 I’m interested in Data Science, Machine Learning.
 - 🌱 I’m currently learning ... Data science
 - 📫 How to reach me ... lesvado28@hotmail.com
